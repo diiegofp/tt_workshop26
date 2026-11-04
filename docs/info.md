@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The design generates standard 640x480 @ 60Hz VGA Timing .
 
 ## How to test
 
