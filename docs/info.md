@@ -13,8 +13,8 @@ The design generates standard 640x480 @ 60Hz VGA Timing .
 
 ## How to test
 
-Explain how to use your project
+Only u need play the simulation.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+-LED Display.
